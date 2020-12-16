@@ -32,7 +32,7 @@
     </ul>
  
  <p> 
-  <img align="left" src="waterlevel_lobo.jpg" height="500" width="600">
+  <img align="left" src="waterlevel_lobo.jpg" height="600">
   3 days Water level timeseries forecast at LOBO station.
   </p>
   
