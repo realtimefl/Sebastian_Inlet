@@ -18,6 +18,7 @@ cp -r /home/admin/sebastian/plots/waterlevel_sebastian_inlet.jpg  /home/admin/se
 
 cp -r /home/admin/sebastian/plots/waterlevel_northjetty.jpg  /home/admin/sebastian/Github/Sebastian_Inlet-main
 
+cp -r /home/admin/sebastian/plots/waterlevel_currentmap.gif  /home/admin/sebastian/Github/Sebastian_Inlet-main
 
 echo updating github
 
