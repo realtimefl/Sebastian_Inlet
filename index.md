@@ -42,7 +42,7 @@
   Water level timeseries forecast at Inlet station for 3 days. </p>
   
   
-  <p>
+  <p align="center">
   <a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="1000" align="justify"> </a> 
         Water level timeseries forecast at North Jetty for 3 days. </p>
   
