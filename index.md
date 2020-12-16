@@ -22,7 +22,7 @@
   
    <h3>Parameters Predicted</h3>
    <ul>
-    <li> Salinity</li>
+     <li> Salinity</li>
     <li> Temperature </li>
     <li> Currents </li>
     <li> Tidal constituents </li>
