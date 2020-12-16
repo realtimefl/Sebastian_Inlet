@@ -5,7 +5,7 @@
     </p>
 
   <a href="Sebastian Inlet Full Grid.jpg"> <img src="Sebastian Inlet Full Grid.jpg" width="1000" align="justify"> </a> 
-  <a href="Zoomed Grid Sebastian Inlet.jpg"> <img src="Zoomed Grid Sebastian Inlet.jpg" width="800" align="justify"> </a> 
+  <a href="Zoomed Grid Sebastian Inlet.jpg"> <img src="Zoomed Grid Sebastian Inlet.jpg" width="900" align="justify"> </a> 
   
  </html>   
   
