@@ -32,9 +32,11 @@
     </ul>
  
  <p> 
-  <a href="waterlevel_lobo.jpg"> <img src="waterlevel_lobo.jpg" width="1000" align="justify"> </a> 
-  "3 days Water level timeseries forecast at LOBO station." 
+  <img align="left" src="waterlevel_lobo.jpg" height="500">
+  "
+  3 days Water level timeseries forecast at LOBO station." 
   </p>
+  
   <a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" width="1000" align="justify"> </a> 
   <a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="1000" align="justify"> </a> 
   <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="imgwidth"  align="left"> </a>
