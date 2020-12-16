@@ -16,13 +16,13 @@
     <img src="Sebastian Inlet Water Level Timeseries.jpg" width="1250">    
 
   
-  # Real Time Forecast
+ # Real Time Forecast
   <p> 3 days of forecast timeseries data has been provided here for LOBO, Sebastian Inlet and North Jetty stations. </p>
   <a href="google earth.JPG"> <img src="google earth.JPG" width="1000" align="justify"> </a>  
   
-   ### Parameters Predicted
+  ### Parameters Predicted
    <ul>
-     <li> Salinity</li>
+    <li> Salinity</li>
     <li> Temperature </li>
     <li> Currents </li>
     <li> Tidal constituents </li>
@@ -51,12 +51,12 @@
          Water level and Current forecast map. </p>
   <p> </p>
   
-  ### Developed by 
+  ## Developed by 
    <p> Ahsan Habib, PhD Candidate </p>
     <p> <a href="https://www.fit.edu/faculty-profiles/8/gary-zarillo/">Dr. Gary Zarillo, PhD </a> 
    </p>
     <p> Dept of Ocean Engineering and Marine Sciences</p>
-    <a href="Primary_horiz_tagline_crimson.png"> <img src="Primary_horiz_tagline_crimson.png" width="400" align="justify">  </a>
+    <img src="Primary_horiz_tagline_crimson.png" width="400" align="justify">  
   
  
   
