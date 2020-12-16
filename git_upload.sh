@@ -2,7 +2,7 @@
 git init
 git pull origin master 
 #git remote add origin https://github.com/realtimefl/Sebastian_Inlet.git
-#rm waterlevel_evergladesinlet.jpg waterlevel_hillsboroinlet.jpg waterlevel_plantriver.jpg waterlevel_porteverglades.jpg
+rm waterlevel_lobo.jpg waterlevel_sebastian_inlet.jpg waterlevel_northjetty.jpg 
 
 git add .
 git commit -m "update commit"
@@ -12,11 +12,11 @@ git push -u origin master
 
 echo copying files
 
-cp -r /home/admin/sebastian/plots/waterlevel_lobo.jpg  /home/admin/sebastian/githubs/Sebastian_Inlet-main
+cp -r /home/admin/sebastian/plots/waterlevel_lobo.jpg  /home/admin/sebastian/Github/Sebastian_Inlet-main
 
-cp -r /home/admin/sebastian/plots/waterlevel_sebastian_inlet.jpg  /home/admin/sebastian/githubs/Sebastian_Inlet-main
+cp -r /home/admin/sebastian/plots/waterlevel_sebastian_inlet.jpg  /home/admin/sebastian/Github/Sebastian_Inlet-main
 
-cp -r /home/admin/sebastian/plots/waterlevel_northjetty.jpg  /home/admin/sebastian/githubs/Sebastian_Inlet-main
+cp -r /home/admin/sebastian/plots/waterlevel_northjetty.jpg  /home/admin/sebastian/Github/Sebastian_Inlet-main
 
 
 echo updating github
