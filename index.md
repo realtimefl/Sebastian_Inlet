@@ -21,7 +21,7 @@
    <ul>
     <li> Salinity</li>
     <li> Temperature </li>
-    <li>Currents </li>
+    <li> Currents </li>
     <li> Tidal constituents </li>
     <li> Sig Wave Height</li>
     <li> Wave Direction</li>
