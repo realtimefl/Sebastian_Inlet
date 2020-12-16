@@ -17,6 +17,7 @@
 
   
   <h1> Real Time Forecast</h1>
+  <a href="google earth.JPG"> <img src="google earth.JPG" width="1000" align="justify"> </a>  
    <h3>Parameters Predicted</h3>
    <ul>
     <li> Salinity</li>
