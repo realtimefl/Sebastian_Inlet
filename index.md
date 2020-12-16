@@ -1,4 +1,4 @@
-
+<html>
 
  # Model Setup 
    <p> A numerical model has been developed using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, 3-dimensional modeling suite for hydrodynamics, sediment transport and morphology and water quality for estuarine and coastal environments. A curvilinear orthogonal grid was created with grid size ranging from 14 m in inlet to 475 m in the coastal area and with 5 sigma layers.  The grid represents coastline from Wabasso Beach to Indialantic Beach.
@@ -58,7 +58,7 @@
     <p> Dept of Ocean Engineering and Marine Sciences</p>
     <img src="Primary_horiz_tagline_crimson.png" width="400" align="justify">  
   
- 
+ </html>
   
   
  
