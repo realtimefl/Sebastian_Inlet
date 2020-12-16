@@ -29,8 +29,8 @@
    </ul>
   
   
-   <h1>Developed by</h1>
-    <p> Ahsan Habib </p>
+   <h1> Developed by </h1>
+    <p> Ahsan Habib, PhD Candidate </p>
     <p> <a href="https://www.fit.edu/faculty-profiles/8/gary-zarillo/">Dr. Gary Zarillo</a> </p>
     <p> Dept of Ocean Engineering and Marine Sciences </p>
     <a href="Primary_horiz_tagline_crimson.png"> <img src="Primary_horiz_tagline_crimson.png" width="200" align="justify"> </a>
