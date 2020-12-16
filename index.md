@@ -44,12 +44,12 @@
   
   <p align="center">
   <a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="1000" align="justify"> </a> 
-        Water level timeseries forecast at North Jetty for 3 days. </p>
+  Water level timeseries forecast at North Jetty for 3 days. </p>
   <p> </p>
   
   <p align="center"> 
   <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="imgwidth"  align="left"> </a>
-         Water level and Current forecast map. </p>
+  Water level and Current forecast map. </p>
          
   <p> </p>
   
