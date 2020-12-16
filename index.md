@@ -31,10 +31,9 @@
     <li> Peak Period</li>
     </ul>
  
- <p> == $0
-  <img align="left" src="waterlevel_lobo.jpg" height="500">
-  "
-  3 days Water level timeseries forecast at LOBO station." 
+ <p> 
+  <img align="left" src="waterlevel_lobo.jpg" height="500" width="600">
+  3 days Water level timeseries forecast at LOBO station.
   </p>
   
   <a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" width="1000" align="justify"> </a> 
