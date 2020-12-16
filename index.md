@@ -53,9 +53,10 @@
   <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="imgwidth"  align="left"> </a>
   Water level and Current forecast map
   </p>
-  <p></p>
+  <p> 
+  </p>
   
-   <h2> Developed by </h2>
+   <h3> Developed by </h3>
     <p> Ahsan Habib, PhD Candidate </p>
     <p> <a href="https://www.fit.edu/faculty-profiles/8/gary-zarillo/">Dr. Gary Zarillo, PhD </a> 
     </p>
