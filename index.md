@@ -17,7 +17,7 @@
 
   
   <h1> Real Time Forecast</h1>
-   <h2>Parameters Predicted</h2>
+   <h3>Parameters Predicted</h3>
    <ul>
     <li> Salinity</li>
     <li> Temperature </li>
@@ -29,7 +29,7 @@
    </ul>
   
   
-   <h1> Developed by </h1>
+   <h2> Developed by </h2>
     <p> Ahsan Habib, PhD Candidate </p>
     <p> <a href="https://www.fit.edu/faculty-profiles/8/gary-zarillo/">Dr. Gary Zarillo</a> </p>
     <p> Dept of Ocean Engineering and Marine Sciences </p>
