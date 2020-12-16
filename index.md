@@ -32,8 +32,8 @@
     </ul>
  
  <p> 
+  Water level timeseries forecast at LOBO station for 3 days.
   <img align="left" src="waterlevel_lobo.jpg" height="600">
-  3 days Water level timeseries forecast at LOBO station.
   </p>
   
   <a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" width="1000" align="justify"> </a> 
