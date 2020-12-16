@@ -38,7 +38,7 @@
  
   <p>
   <a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" width="1000" align="justify">  </a> 
-        Water level timeseries forecast at Inlet station for 3 days. </p>
+  Water level timeseries forecast at Inlet station for 3 days. </p>
   <p> </p>
   
   <p>
