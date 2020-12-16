@@ -31,6 +31,10 @@
     <li> Peak Period</li>
     </ul>
  
+  <a href="waterlevel_lobo.jpg"> <img src="waterlevel_lobo.jpg" width="1000" align="justify"> </a> 
+  <a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" width="1000" align="justify"> </a> 
+  <a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="1000" align="justify"> </a> 
+  
   
    <h2> Developed by </h2>
     <p> Ahsan Habib, PhD Candidate </p>
