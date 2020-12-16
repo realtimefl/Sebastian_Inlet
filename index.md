@@ -34,17 +34,17 @@
  <p> 
   <img align="left" src="waterlevel_lobo.jpg" height="600">
        Water level timeseries forecast at LOBO station for 3 days. </p>
- <p> </p>
+
  
   <p>
   <a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" width="1000" align="justify">  </a> 
   Water level timeseries forecast at Inlet station for 3 days. </p>
-  <p> </p>
+  
   
   <p>
   <a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="1000" align="justify"> </a> 
         Water level timeseries forecast at North Jetty for 3 days. </p>
-  <p> </p>
+  
   
   <p> 
   <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="imgwidth"  align="left"> </a>
@@ -52,9 +52,9 @@
   <p> </p>
   
   ### Developed by 
-    <p> Ahsan Habib, PhD Candidate </p>
+   <p> Ahsan Habib, PhD Candidate </p>
     <p> <a href="https://www.fit.edu/faculty-profiles/8/gary-zarillo/">Dr. Gary Zarillo, PhD </a> 
-    </p>
+   </p>
     <p> Dept of Ocean Engineering and Marine Sciences</p>
     <a href="Primary_horiz_tagline_crimson.png"> <img src="Primary_horiz_tagline_crimson.png" width="400" align="justify">  </a>
   
