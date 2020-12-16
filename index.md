@@ -30,7 +30,7 @@
     <li> Wave Direction</li>
     <li> Peak Period</li>
     </ul>
-  
+ 
   
    <h2> Developed by </h2>
     <p> Ahsan Habib, PhD Candidate </p>
