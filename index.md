@@ -31,25 +31,26 @@
     <li> Peak Period</li>
     </ul>
  
- <p> 
+ <p align="center"> 
   <img align="left" src="waterlevel_lobo.jpg" height="600">
        Water level timeseries forecast at LOBO station for 3 days.
 </p>
-
+<p> </p>
  
-  <p>
+  <p align="center">
   <a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" width="1000" align="justify">  </a> 
   Water level timeseries forecast at Inlet station for 3 days. </p>
-  
+  <p> </p>
   
   <p align="center">
   <a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="1000" align="justify"> </a> 
         Water level timeseries forecast at North Jetty for 3 days. </p>
+  <p> </p>
   
-  
-  <p> 
+  <p align="center"> 
   <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="imgwidth"  align="left"> </a>
          Water level and Current forecast map. </p>
+         
   <p> </p>
   
   <h3> Developed by </h3>
