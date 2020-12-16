@@ -29,7 +29,7 @@
     <li> Sig Wave Height</li>
     <li> Wave Direction</li>
     <li> Peak Period</li>
-    </ul>
+   </ul>
  
  <p> 
   Water level timeseries forecast at LOBO station for 3 days.
