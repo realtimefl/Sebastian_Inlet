@@ -42,9 +42,13 @@ Water level timeseries forecast at North Jetty for 3 days.
  Water level and Current forecast map. 
 
 ### Developed by 
+
 Ahsan Habib, PhD Candidate
+
 Dr. Gary Zarillo, PhD
+
 Dept of Ocean Engineering and Marine Sciences</p>
+
 <img src="Primary_horiz_tagline_crimson.png" width="400" align="justify">  
   
  
