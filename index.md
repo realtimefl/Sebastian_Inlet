@@ -1,10 +1,9 @@
-
 # Model Setup 
 
 A numerical model has been developed using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, 3-dimensional modeling suite for hydrodynamics, sediment transport and morphology and water quality for estuarine and coastal environments. A curvilinear orthogonal grid was created with grid size ranging from 14 m in inlet to 475 m in the coastal area and with 5 sigma layers.  The grid represents coastline from Wabasso Beach to Indialantic Beach.
 
- <img src="Sebastian Inlet Full Grid.jpg"> 
- <img src="Zoomed Grid Sebastian Inlet.jpg"> 
+<img src="Sebastian Inlet Full Grid.jpg"> 
+<img src="Zoomed Grid Sebastian Inlet.jpg"> 
        
 # Offshore Boundary Conditions
 
@@ -24,16 +23,7 @@ Model results for waterlevel timeseries were compared with data from buoy data n
 <img src="google earth.JPG">  
   
 ### Parameters Predicted 
-  <ul>
-    <li> Salinity</li>
-    <li> Temperature </li>
-    <li> Currents </li>
-    <li> Tidal constituents </li>
-    <li> Sig Wave Height</li>
-    <li> Wave Direction</li>
-    <li> Peak Period</li>
-   </ul>
- 
+
 <img align="left" src="waterlevel_lobo.jpg" height="600">
 *Water level timeseries forecast at LOBO station for 3 days.*
 
