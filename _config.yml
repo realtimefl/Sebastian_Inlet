@@ -3,5 +3,5 @@ title: Real Time Forecast- Delft3d Hydrodynamic and Wave model
 description: Sbeastian Inlet, FL and vicinity
 author: Ahsan Habib
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
-default_column: !="two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_column: != "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
 default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
