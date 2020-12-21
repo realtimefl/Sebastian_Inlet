@@ -4,5 +4,5 @@ description: Sbeastian Inlet, FL and vicinity
 author: Ahsan Habib
 email: mhabib2014@my.fit.edu
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
-default_column: "three" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_column: "one" # blog style: two columns, if default_column != "two", you will see a one column blog.
 default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
