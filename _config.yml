@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 title: Real Time Forecast- Delft3d Hydrodynamic and Wave model
 description: Sbeastian Inlet, FL and vicinity
-author: Md Ahsan Habib
+author: Ahsan Habib
 email: mhabib2014@my.fit.edu
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
