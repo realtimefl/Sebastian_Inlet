@@ -32,7 +32,7 @@ Model results for waterlevel timeseries were compared with data from buoy data n
     <li> Sig Wave Height</li>
     <li> Wave Direction</li>
     <li> Peak Period</li>
- </ul>
+  </ul>
 
 <img src="waterlevel_sebastian_inlet.jpg" width="1000" align="justify"> 
 *Water level timeseries forecast at Inlet station for 3 days.*
