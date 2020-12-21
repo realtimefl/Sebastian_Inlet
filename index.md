@@ -24,7 +24,7 @@ Model results for waterlevel timeseries were compared with data from buoy data n
 <img src="google earth.JPG">  
   
 ### Parameters Predicted 
-   <ul>
+  <ul>
     <li> Salinity</li>
     <li> Temperature </li>
     <li> Currents </li>
@@ -32,7 +32,7 @@ Model results for waterlevel timeseries were compared with data from buoy data n
     <li> Sig Wave Height</li>
     <li> Wave Direction</li>
     <li> Peak Period</li>
-    </ul>
+   </ul>
  
 <img align="left" src="waterlevel_lobo.jpg" height="600">
 *Water level timeseries forecast at LOBO station for 3 days.*
