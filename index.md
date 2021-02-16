@@ -50,7 +50,7 @@ Model results for waterlevel timeseries were compared with data from buoy data n
 
 Ahsan Habib, PhD Candidate
 
-Dr. Gary Zarillo, PhD
+<a href="https://www.fit.edu/faculty-profiles/8/gary-zarillo/">Dr. Gary Zarillo, PhD </a>
 
 Dept of Ocean Engineering and Marine Sciences</p>
 
