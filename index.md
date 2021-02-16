@@ -52,7 +52,7 @@ Ahsan Habib, PhD Candidate
 
 <a href="https://www.fit.edu/faculty-profiles/8/gary-zarillo/">Dr. Gary Zarillo, PhD </a>
 
-Dept of Ocean Engineering and Marine Sciences</p>
+Dept of Ocean Engineering and Marine Sciences
 
 <img src="Primary_horiz_tagline_crimson.png" width="400" align="justify">  
   
