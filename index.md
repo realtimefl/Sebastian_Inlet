@@ -40,7 +40,7 @@ Model results for waterlevel timeseries were compared with data from buoy data n
 <a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="902" align="justify"> </a>
 *Water level timeseries forecast at North Jetty for 3 days.*
 
-<a href="waterlevel_lobo.jpg"> <img align="left" src="waterlevel_lobo.jpg" height="300"> </a>
+<a href="waterlevel_lobo.jpg"> <img align="left" src="waterlevel_lobo.jpg" height="600"> </a>
 *Water level timeseries forecast at LOBO station for 3 days.*
 
 <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="imgwidth"  align="center"> </a>
