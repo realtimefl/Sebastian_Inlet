@@ -1,32 +1,33 @@
-<!DOCTYPE html>
 <html>
 <body>
        
- <h2> Model Setup </h2>
-
-A numerical model has been developed using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, 3-dimensional modeling suite for hydrodynamics, sediment transport and morphology and water quality for estuarine and coastal environments. A curvilinear orthogonal grid was created with grid size ranging from 14 m in inlet to 475 m in the coastal area and with 5 sigma layers.  The grid represents coastline from Wabasso Beach to Indialantic Beach.
+<h2> Model Setup </h2>
+<p>
+A numerical model has been developed using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, 3-dimensional modeling suite for hydrodynamics, sediment transport and morphology and water quality for estuarine and coastal environments. A curvilinear orthogonal grid was created with grid size ranging from 14 m in inlet to 475 m in the coastal area and with 5 sigma layers.  The grid represents coastline from Wabasso Beach to Indialantic Beach. </p>
 
 <a href="Sebastian Inlet Full Grid.jpg"> <img src="Sebastian Inlet Full Grid.jpg"> </a>
 <a href="Zoomed Grid Sebastian Inlet.jpg"> <img src="Zoomed Grid Sebastian Inlet.jpg"> </a>
        
-# Offshore Boundary Conditions
-
+<h2> Offshore Boundary Conditions </h2>
+<p>
 The model is driven by water elevation time series that includes tides and lower frequency sea level oscillations, and meteorological forcing. The temperature, salinity and sea surface elevation along north, south and east open boundaries were derived from <a href="https://www.hycom.org/data/gomu0pt04/expt-90pt1m000">HYCOM and NCODA Gulf of Mexico 1/25° Analysis</a>. The meteorological forcing (relative humidity, air temperature, wind forcing, heatflux, evaporation and precipitation) was derived from <a href="https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/north-american-mesoscale-forecast-system-nam">North American Mesoscale Forecast system (NAM).</a>
-     
-# Model Validation
+</p>  
 
+<h2> Model Validation </h2>
+<p>
 Model results for waterlevel timeseries were compared with data from buoy data near Sebastian Inlet. There is a good match between model results and buoy data for water level timeseries with small difference in amplitude but very good match between phases. Correlation comparison is well over 90%.Following figures show some comparison. 
+</p>
 
 <p align="center">
 <a href="Sebastian Inlet Water Level Timeseries.jpg"> <img src="Sebastian Inlet Water Level Timeseries.jpg"> </a>   
 </p>
   
-# Real Time Forecast
+<h2> Real Time Forecast </h2>
 
 3 days of forecast timeseries data has been provided here for LOBO, Sebastian Inlet and North Jetty stations.
 <img src="google earth.JPG">  
   
-### Parameters Predicted 
+<h3> Parameters Predicted </h3>
 
 <ul>
     <li> Salinity</li>
@@ -45,7 +46,7 @@ Model results for waterlevel timeseries were compared with data from buoy data n
 
 .column {
   float: left;
-  width: 33.33%;
+  width: 50%;
   padding: 5px;
 }
 
@@ -64,9 +65,6 @@ Model results for waterlevel timeseries were compared with data from buoy data n
   <div class="column">
     <img src="waterlevel_northjetty.jpg" alt="Forest" style="width:100%">
   </div>
-  <div class="column">
-    <img src="waterlevel_lobo.jpg" alt="Mountains" style="width:100%">
-  </div>
 </div>
 
 
@@ -82,7 +80,7 @@ Model results for waterlevel timeseries were compared with data from buoy data n
 <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="imgwidth"  align="center"> </a>
 *Water level and Current forecast map.* 
 
-### Developed by 
+<h3> Developed by </h3>
 
 Ahsan Habib, PhD Candidate
 
