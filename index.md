@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-
+<body>
+       
 # Model Setup 
 
 A numerical model has been developed using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, 3-dimensional modeling suite for hydrodynamics, sediment transport and morphology and water quality for estuarine and coastal environments. A curvilinear orthogonal grid was created with grid size ranging from 14 m in inlet to 475 m in the coastal area and with 5 sigma layers.  The grid represents coastline from Wabasso Beach to Indialantic Beach.
@@ -36,24 +37,35 @@ Model results for waterlevel timeseries were compared with data from buoy data n
     <li> Wave Direction</li>
     <li> Peak Period</li>
   </ul>
-  
-.row {
-  display: flex;
+
+<style>
+* {
+  box-sizing: border-box;
 }
 
-/* Create three equal columns that sits next to each other */
 .column {
-  flex: 50%;
+  float: left;
+  width: 33.33%;
   padding: 5px;
 }
 
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
 
 <div class="row">
   <div class="column">
-    <img src="waterlevel_sebastian_inlet.jpg" alt="Snow" style="width:100%">
+    <img src="img_snow.jpg" alt="Snow" style="width:100%">
   </div>
   <div class="column">
-    <img src="waterlevel_northjetty.jpg" alt="Forest" style="width:100%">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
   </div>
 </div>
 
@@ -80,7 +92,8 @@ Dept of Ocean Engineering and Marine Sciences
 
 <img src="Primary_horiz_tagline_crimson.png" width="400" align="justify">  
   
- 
- </html> 
+</body>
+</html>
+  
   
  
