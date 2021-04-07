@@ -34,7 +34,7 @@ Model results for waterlevel timeseries were compared with data from buoy data n
     <li> Peak Period</li>
   </ul>
   
-<a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" width="300"> </a>
+<a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" width="300" align="justify"> </a>
 
 <a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="300" align="justify"> </a>
 
