@@ -39,6 +39,11 @@ Model results for waterlevel timeseries were compared with data from buoy data n
     <li> Peak Period</li>
   </ul>
 
+<style>
+* {
+  box-sizing: border-box;
+}
+       
 .column {
   float: left;
   width: 50%;
@@ -51,7 +56,7 @@ Model results for waterlevel timeseries were compared with data from buoy data n
   clear: both;
   display: table;
 }
-
+</style>
 
 <div class="row">
   <div class="column">
