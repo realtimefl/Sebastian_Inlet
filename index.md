@@ -63,7 +63,7 @@ Model results for waterlevel timeseries were compared with data from buoy data n
 </div>
 
 
-<a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" height="300"> </a>
+<a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" height="301"> </a>
 *Water level timeseries forecast at Inlet station for 3 days.*
 
 <a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" height="300"> </a>
