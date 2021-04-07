@@ -47,7 +47,7 @@ Model results for waterlevel timeseries were compared with data from buoy data n
 .column {
   float: left;
   width: 50%;
-  padding: 5px;
+  padding: 1px;
 }
 
 /* Clearfix (clear floats) */
