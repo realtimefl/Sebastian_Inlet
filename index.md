@@ -53,12 +53,12 @@ Model results for waterlevel timeseries were compared with data from buoy data n
 </style>
 
 <div class="column left">
-  <h3>Model Setup1 </h3>   
+  <p>Model Setup1 </p>   
   <a href="waterlevel_sebastian_inlet.JPG"> <img src="waterlevel_sebastian_inlet.JPG" align="left"> </a>  
 </div>
 
 <div class="column left">
-  <h3>Model Setup2 </h3>      
+  <p>Model Setup2 </p>      
   <a href="waterlevel_northjetty.JPG"> <img src="waterlevel_northjetty.JPG" align="justify"> </a>  
 </div>
 
