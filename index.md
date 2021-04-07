@@ -35,9 +35,9 @@ Model results for waterlevel timeseries were compared with data from buoy data n
   </ul>
  
  
-<a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" width="400" align="left"> </a>
+<a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" width="490" align="left"> </a>
 
-<a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="400" align="center"> </a>
+<a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="490" align="center"> </a>
 
 <a href="waterlevel_lobo.jpg"> <img align="left" src="waterlevel_lobo.jpg" height="600"> </a>
 *Water level timeseries forecast at LOBO station for 3 days.*
