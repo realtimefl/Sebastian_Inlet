@@ -34,6 +34,30 @@ Model results for waterlevel timeseries were compared with data from buoy data n
     <li> Peak Period</li>
   </ul>
 
+<div class="row">
+  <div class="column">
+    <img src="waterlevel_sebastian_inlet.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="waterlevel_northjetty.jpg" alt="Forest" style="width:100%">
+  </div>
+</div>
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
 <a href="waterlevel_sebastian_inlet.jpg"> <img src="waterlevel_sebastian_inlet.jpg" height="300"> </a>
 *Water level timeseries forecast at Inlet station for 3 days.*
 
