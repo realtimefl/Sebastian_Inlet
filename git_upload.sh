@@ -24,6 +24,9 @@ cp -r /home/admin/sebastian/plots/waterlevel_indialantic.jpg  /home/admin/sebast
 
 cp -r /home/admin/sebastian/plots/waterlevel_wabasso.jpg  /home/admin/sebastian/Github/Sebastian_Inlet-main
 
+cp -r /home/admin/sebastian/plots/saltem_lobo.jpg  /home/admin/sebastian/Github/Sebastian_Inlet-main
+
+cp -r /home/admin/sebastian/plots/saltemp_inlet.jpg  /home/admin/sebastian/Github/Sebastian_Inlet-main
 
 echo updating github
 
