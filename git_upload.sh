@@ -20,6 +20,11 @@ cp -r /home/admin/sebastian/plots/waterlevel_northjetty.jpg  /home/admin/sebasti
 
 cp -r /home/admin/sebastian/plots/waterlevel_currentmap.gif  /home/admin/sebastian/Github/Sebastian_Inlet-main
 
+cp -r /home/admin/sebastian/plots/waterlevel_indialantic.jpg  /home/admin/sebastian/Github/Sebastian_Inlet-main
+
+cp -r /home/admin/sebastian/plots/waterlevel_wabasso.jpg  /home/admin/sebastian/Github/Sebastian_Inlet-main
+
+
 echo updating github
 
 git init 
