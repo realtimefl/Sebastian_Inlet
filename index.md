@@ -58,7 +58,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <a href="waterlevel_indialantic.jpg"> <img src="waterlevel_indialantic.jpg" width="300"> </a>
 
 <p> </p>
-<div style="color:green" align="center">3 days forecast of salinity and temperature at LOBO station (left) and Sebastian Inlet (right). </div>      
+<div style="color:green" align="center">3 days forecast of salinity and temperature at LOBO station (left) and Sebastian Inlet (right) </div>      
 <a href="saltem_lobo.jpg"> <img src="saltem_lobo.jpg" width="300"> </a>
 <a href="saltemp_inlet.jpg"> <img src="saltemp_inlet.jpg" width="300"> </a>
 
@@ -68,12 +68,12 @@ Open boundary conditions for wave model have been derived from global wave model
 <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="610"> </a>
 
 <p> </p>
-<div style="color:green" align="center">Sig. wave height timeseries forecast at Sebastian Inlet(left) and LOBO station(right) </div>
+<div style="color:green" align="center">Sig. wave height timeseries forecast at Sebastian Inlet (left) and LOBO station (right) </div>
 <a href="sig_waveheight_inlet.jpg"> <img src="sig_waveheight_inlet.jpg" width="300" align="left"> </a>
 <a href="sig_waveheight_lobo.jpg"> <img src="sig_waveheight_lobo.jpg" width="300" align="justify"> </a>
 
 <p> </p>
-<div style="color:green" align="center">Timeseries forecast of peak period at Sebastian Inlet(left) and LOBO station(right) </div>
+<div style="color:green" align="center">Timeseries forecast of peak period at Sebastian Inlet (left) and LOBO station (right) </div>
 <a href="peak_period_inlet.jpg"> <img src="peak_period_inlet.jpg" width="300" align="left"> </a>
 <a href="peak_period_lobo.jpg"> <img src="peak_period_lobo.jpg"  width="300" align="justify">  </a>
  
