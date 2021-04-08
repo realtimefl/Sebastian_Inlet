@@ -55,7 +55,6 @@ Open boundary conditions for wave model have been derived from global wave model
    <area shape="rect" coords="345,40,355,50" href="waterlevel_indialantic.jpg" alt="alttext">
 </map>
 
-
 <p> 3 days of timeseries forecast data has been provided here for LOBO, Sebastian Inlet and North Jetty stations </p>
 
 <div style="color:green" align="center">Water level timeseries forecast at Sebastian Inlet (left) and North Jetty (right) for 3 days </div>
