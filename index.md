@@ -85,7 +85,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <a href="peak_period_inlet.jpg"> <img src="peak_period_inlet.jpg" width="300" align="left"> </a>
 <a href="peak_period_lobo.jpg"> <img src="peak_period_lobo.jpg"  width="300" align="justify">  </a>
  
-<p>  </p>
+<p> </p>
 <h3> Developed by </h3>
 
 <p> Ahsan Habib, PhD Candidate </p>
