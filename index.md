@@ -45,11 +45,11 @@ Open boundary conditions for wave model have been derived from global wave model
     <li> Peak Period</li>
 </ul>
 
-<img src="google earth.JPG" width="imgwidth" height="imgheight" alt="alttext" usemap="#mapname"> 
+<img src="google earth.JPG" width="600" alt="alttext" usemap="#mapname"> 
 
 <map name="mapname">
-   <area shape="rect" coords="480,590,490,600" href="waterlevel_lobo.jpg" alt="alttext">
-   <area shape="rect" coords="545,535,550,545" href="waterlevel_sebastian_inlet.jpg" alt="alttext">
+   <area shape="circle" coords="486,594,20" href="waterlevel_lobo.jpg" alt="alttext">
+   <area shape="circle" coords="548,539,20" href="waterlevel_sebastian_inlet.jpg" alt="alttext">
    <area shape="rect" coords="540,485,550,495" href="waterlevel_northjetty.jpg" alt="alttext">
    <area shape="rect" coords="650,790,660,800" href="waterlevel_wabasso.jpg" alt="alttext">
    <area shape="rect" coords="345,40,355,50" href="waterlevel_indialantic.jpg" alt="alttext">
