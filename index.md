@@ -50,8 +50,9 @@ Open boundary conditions for wave model have been derived from global wave model
 <map name="mapname">
    <area shape="rect" coords="440,618,519,561" href="waterlevel_lobo.jpg" alt="alttext">
    <area shape="rect" coords="537,563,723,521" href="waterlevel_sebastian_inlet.jpg" alt="alttext">
-   <area shape="rect" coords="473,461,611,508" href="waterlevel_wabasso.jpg" alt="alttext">
-   <area shape="rect" coords="340,40,360,50" href="waterlevel_indialantic.jpg" alt="alttext">
+   <area shape="rect" coords="473,461,611,508" href="waterlevel_northjetty.jpg" alt="alttext">
+   <area shape="rect" coords="334,28,455,66" href="waterlevel_indialantic.jpg" alt="alttext">
+   <area shape="rect" coords="647,782,848,822" href="waterlevel_indialantic.jpg" alt="alttext">
 </map>
 
 <p> 3 days of timeseries forecast data has been provided here for LOBO, Sebastian Inlet and North Jetty stations </p>
