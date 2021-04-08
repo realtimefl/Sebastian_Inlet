@@ -46,7 +46,7 @@ Open boundary conditions for wave model have been derived from global wave model
 </ul>
 
 <div>
-<img src="google earth.JPG" width="imgwidth" height="imgheight" alt="alttext" usemap="#mapname"> 
+<img src="google_earth.JPG" width="imgwidth" height="imgheight" alt="alttext" usemap="#mapname"> 
 <map name="mapname">
    <area shape="circle" coords="440,618,40" href="waterlevel_lobo.jpg" alt="alttext">
    <area shape="rect" coords="537,563,723,521" href="waterlevel_sebastian_inlet.jpg" alt="alttext">
