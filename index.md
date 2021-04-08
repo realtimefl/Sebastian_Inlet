@@ -2,7 +2,7 @@
 <body>
              
 <h1>Model Setup </h1>
-<p>A numerical model has been developed using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, 3-dimensional modeling suite for hydrodynamics, sediment transport and morphology and water quality for estuarine and coastal environments. A curvilinear orthogonal grid was created with grid size ranging from 14 m in inlet to 475 m in the coastal area and with 5 sigma layers. The grid represents coastline from Wabasso Beach to Indialantic Beach. Wave model was set up using SWAN (Simulating Waves Nearshore) model suite integrated into Delft3D. Same flow grid and bathymetry were used for wave model setup.  </p>
+<p>A numerical model has been developed using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>,a 3-dimensional modeling suite for hydrodynamics, sediment transport and morphology and water quality for estuarine and coastal environments. A curvilinear orthogonal grid was created with grid size ranging from 14 m in the inlet to 475 m in the coastal area and with 5 sigma layers. The grid represents coastline from Wabasso Beach to Indialantic Beach. Wave model was set up using SWAN (Simulating Waves Nearshore) model suite integrated into Delft3D. Same flow grid and bathymetry were used for wave model setup.  </p>
 
 <div style="color:green" align="center">Left: Model domain (Red rectangular box). Right: Zoomed model domain in Sebastian Inlet.(Google Earth) </div>      
 <a href="googleEarth1.JPG">  <img src="googleEarth1.JPG"  width="300" align="justify">  </a>
@@ -22,7 +22,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <a href="boundary node.jpg"> <img src="boundary node.jpg" width="250" height="250" align="justify">  </a>  
 
 <h1>Model Validation  </h1>      
-<p>Model results for waterlevel timeseries were compared with data from buoy data near Sebastian Inlet. There is a good match between model results and buoy data for water level timeseries with small difference in amplitude but very good match between phases. Correlation comparison is well over 90%.Following figures show some comparison.</p>
+<p>Model results for waterlevel timeseries were compared with data from buoy data near Sebastian Inlet. There is a good match between model results and buoy data for water level timeseries with small difference in amplitude but very good match between phases. Correlation comparison is well over 90%. Salinity. temperature, and sig. waveheight from simulation results were also compared with measured data. These comparisons showed good match with observed data. Following figures show some comparison.</p>
 
 <div style="color:green" align="center">Water level timeseries comparison between model and measured data at Sebastian Inlet </div>      
 <a href="Sebastian Inlet Water Level Timeseries.jpg"> <img src="Sebastian Inlet Water Level Timeseries.jpg" width="350"  align="left"></a>  
