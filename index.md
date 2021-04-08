@@ -54,8 +54,10 @@ Open boundary conditions for wave model have been derived from global wave model
 <a href="waterlevel_sebastian_inlet.jpg"><img src="waterlevel_sebastian_inlet.jpg" width="300" align="left"> </a><a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="300" align="justify"> </a>
 
 <p> </p>
-<div style="color:green" align="center">Water level timeseries forecast at LOBO station for 3 days. </div>      
-<a href="waterlevel_lobo.jpg"> <img src="waterlevel_lobo.jpg" width="610"> </a>
+<div style="color:green" align="center">3 days Water level timeseries forecast at LOBO station(left) and Indialantic Beach(right). </div>      
+<a href="waterlevel_lobo.jpg"> <img src="waterlevel_lobo.jpg" width="300"> </a>
+<a href="waterlevel_indialantic.jpg"> <img src="waterlevel_indialantic.jpg" width="300"> </a>
+
 
 <p> </p>
 <div style="color:green" align="center">Water level and Current forecast map.</div>
