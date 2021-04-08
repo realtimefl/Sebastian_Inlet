@@ -45,22 +45,22 @@ Open boundary conditions for wave model have been derived from global wave model
     <li> Peak Period</li>
 </ul>
 
+<div>
 <img src="google earth.JPG" width="imgwidth" height="imgheight" alt="alttext" usemap="#mapname"> 
-
 <map name="mapname">
    <area shape="rect" coords="440,618,519,561" href="waterlevel_lobo.jpg" alt="alttext">
    <area shape="rect" coords="537,563,723,521" href="waterlevel_sebastian_inlet.jpg" alt="alttext">
    <area shape="rect" coords="473,461,611,508" href="waterlevel_northjetty.jpg" alt="alttext">
    <area shape="rect" coords="334,28,455,66" href="waterlevel_indialantic.jpg" alt="alttext">
    <area shape="rect" coords="647,782,848,822" href="waterlevel_indialantic.jpg" alt="alttext">
-</map>
+</map> </div>
 
 <p> 3 days of timeseries forecast data has been provided here for LOBO, Sebastian Inlet and North Jetty stations </p>
 
 <div style="color:green" align="center">Water level timeseries forecast at Sebastian Inlet (left) and North Jetty (right) for 3 days </div>
 <a href="waterlevel_sebastian_inlet.jpg"><img src="waterlevel_sebastian_inlet.jpg" width="300" align="left"> </a><a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="300" align="justify"> </a>
 
-<p> </p>
+<p>  </p>
 <div style="color:green" align="center">3 days Water level timeseries forecast at LOBO station (left) and Indialantic Beach (right). </div>      
 <a href="waterlevel_lobo.jpg"> <img src="waterlevel_lobo.jpg" width="300"> </a>
 <a href="waterlevel_indialantic.jpg"> <img src="waterlevel_indialantic.jpg" width="300"> </a>
