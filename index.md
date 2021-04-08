@@ -45,7 +45,7 @@ Open boundary conditions for wave model have been derived from global wave model
     <li> Peak Period</li>
 </ul>
 
-<a href="google earth.JPG"> <img src="google earth.JPG" width="610" alt="alttext" usemap="#mapname"> </a>
+<img src="google earth.JPG" width="610" alt="alttext" usemap="#mapname"> 
 
 <map name="mapname">
    <area shape="circle" coords="486,594,10" href="waterlevel_lobo.jpg" alt="alttext">
