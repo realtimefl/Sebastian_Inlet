@@ -1,7 +1,7 @@
 <html>
 <body>
              
-<h1>Model Setup</h1>
+<h1>Model Setup  </h1>
 <p>A numerical model has been developed using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, a 3-dimensional modeling suite for hydrodynamics, sediment transport and morphology and water quality for estuarine and coastal environments. A curvilinear orthogonal grid was created with grid size ranging from 14 m in the inlet to 475 m in the coastal area and with 5 sigma layers. The grid represents coastline from Wabasso Beach to Indialantic Beach. Wave model was set up using SWAN (Simulating Waves Nearshore) model suite integrated into Delft3D. Same flow grid and bathymetry were used for wave model setup.  </p>
 
 <div style="color:green" align="center">Left: Model domain (Red rectangular box). Right: Zoomed model domain in Sebastian Inlet.(Google Earth) </div>      
@@ -71,7 +71,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <a href="saltemp_inlet.jpg"> <img src="saltemp_inlet.jpg" width="300"> </a>
 
 
-<p>  </p>
+<p> </p>
 <div style="color:green" align="center">Water level and Current forecast map.</div>
 <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="610"> </a>
 
