@@ -45,7 +45,7 @@ Open boundary conditions for wave model have been derived from global wave model
     <li> Peak Period</li>
 </ul>
 <strong>Click</strong> on station names for timeseries forecast. 
-<img src="google_earth.JPG" width="imgwidth" height="imgheight" alt="alttext" usemap="#mapname">
+<img src="google_earth.JPG" width="600" alt="alttext" usemap="#mapname">
 <map name="mapname">
     <area shape="rect" coords="340,410,280,365" href="placemark_lobo.jpg" alt="alttext">
     <area shape="rect" coords="480,370,340,340" href="placemark_inlet.jpg" alt="alttext">
