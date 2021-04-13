@@ -33,7 +33,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <a href="temperature_lobo.jpg"> <img src="temperature_lobo.jpg" width="300" height="225" align="left"> </a>  
 <a href="sig_waveheight_buoy_comparison.jpg"> <img src="sig_waveheight_buoy_comparison.jpg" width="300" align="justify"> </a>  
 
-<h1> Real Time Forecast</h1>
+<h1> Real Time Forecast </h1>
 <h3> Parameters Predicted </h3>
 <ul>
     <li>Water level</li>
