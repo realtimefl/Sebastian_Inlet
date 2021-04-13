@@ -55,7 +55,7 @@ Open boundary conditions for wave model have been derived from global wave model
  </map>
 
 
-<p> 3 days of timeseries forecast data has been provided here for LOBO, Sebastian Inlet and North Jetty stations</p>
+<p>3 days of timeseries forecast data has been provided here for LOBO, Sebastian Inlet and North Jetty stations</p>
 
 <div style="color:green" align="center">Water level timeseries forecast at Sebastian Inlet (left) and North Jetty (right) for 3 days </div>
 <a href="waterlevel_sebastian_inlet.jpg"><img src="waterlevel_sebastian_inlet.jpg" width="300" align="left"> </a><a href="waterlevel_northjetty.jpg"> <img src="waterlevel_northjetty.jpg" width="300" align="justify"> </a>
