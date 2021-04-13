@@ -13,7 +13,7 @@
 <a href="Sebastian Inlet Full Grid.jpg">  <img src="Sebastian Inlet Full Grid.jpg"  width="300" align="justify">  </a>
 <a href="Zoomed Grid Sebastian Inlet.jpg"> <img src="Zoomed Grid Sebastian Inlet.jpg" width="300" align="justify">   </a>
 
-<h1> Offshore Boundary Conditions </h1>
+<h1> Offshore Boundary Conditions</h1>
 <p>The model is driven by water elevation time series that includes tides and lower frequency sea level oscillations, and meteorological forcing. The temperature, salinity and sea surface elevation along north, south and east open boundaries were derived from <a href="https://www.hycom.org/data/gomu0pt04/expt-90pt1m000">HYCOM and NCODA Gulf of Mexico 1/25° Analysis</a>. The meteorological forcing (relative humidity, air temperature, wind forcing, heatflux, evaporation and precipitation) was derived from <a href="https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/north-american-mesoscale-forecast-system-nam">North American Mesoscale Forecast system (NAM). </a>
 Open boundary conditions for wave model have been derived from global wave model <a href="https://polar.ncep.noaa.gov/waves/ensemble/download.shtml?">WavewatchIII</a>. Significant wave height, peak period, wave direction and direction spreading data were derived from WavewatchIII. </p>
 
@@ -21,7 +21,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <a href="Sal_tem_2018_east1a.jpg"> <img src="Sal_tem_2018_east1a.jpg" width="350"  align="left"> </a>  
 <a href="boundary node.jpg"> <img src="boundary node.jpg" width="250" height="250" align="justify"> </a>  
 
-<h1>Model Validation </h1>      
+<h1>Model Validation</h1>      
 <p>Model results for waterlevel timeseries were compared with data from buoy data near Sebastian Inlet. There is a good match between model results and buoy data for water level timeseries with small difference in amplitude but very good match between phases. Correlation comparison is well over 90%. Salinity. temperature, and sig. waveheight from simulation results were also compared with measured data. These comparisons showed good match with observed data. Following figures show some comparison.</p>
 
 <div style="color:green" align="center">Water level timeseries comparison between model and measured data at Sebastian Inlet </div>      
