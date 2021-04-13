@@ -48,10 +48,10 @@ Open boundary conditions for wave model have been derived from global wave model
 <img src="google_earth.JPG" width="imgwidth" height="imgheight" alt="alttext" usemap="#mapname">
 <map name="mapname">
     <area shape="rect" coords="298,324,232,294" href="waterlevel_lobo.jpg" alt="alttext">
-    <area shape="rect" coords="537,563,723,521" href="waterlevel_sebastian_inlet.jpg" alt="alttext">
-    <area shape="rect" coords="473,461,611,508" href="waterlevel_northjetty.jpg" alt="alttext">
+    <area shape="rect" coords="537,400,723,421" href="waterlevel_sebastian_inlet.jpg" alt="alttext">
+    <area shape="rect" coords="473,461,611,470" href="waterlevel_northjetty.jpg" alt="alttext">
     <area shape="rect" coords="300,55,190,11" href="waterlevel_indialantic.jpg" alt="alttext">
-    <area shape="rect" coords="540,560,346,510" href="waterlevel_wabasso.jpg" alt="alttext"> 
+    <area shape="rect" coords="540,560,346,500" href="waterlevel_wabasso.jpg" alt="alttext"> 
  </map>
 
 
