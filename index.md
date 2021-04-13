@@ -49,7 +49,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <map name="mapname">
     <area shape="rect" coords="280,340,240,300" href="placemark_lobo.jpg" alt="alttext">
     <area shape="rect" coords="400,310,290,280" href="placemark_inlet.jpg" alt="alttext">
-    <area shape="rect" coords="240,270,340,180" href="placemark_jetty.jpg" alt="alttext">
+    <area shape="rect" coords="240,270,340,230" href="placemark_jetty.jpg" alt="alttext">
     <area shape="rect" coords="250,50,200,20" href="placemark_indialantic.jpg" alt="alttext">
     <area shape="rect" coords="460,450,350,420" href="placemark_wabasso.jpg" alt="alttext"> 
  </map>
