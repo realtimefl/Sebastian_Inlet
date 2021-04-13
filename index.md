@@ -45,23 +45,13 @@ Open boundary conditions for wave model have been derived from global wave model
     <li> Peak Period</li>
 </ul>
 
-
-<img src="google_earth.JPG" width="imgwidth" height="imgheight" alt="alttext" usemap="#mapname"> 
-<map name="mapname">
-   <area shape="rect" coords="440,564,519,615" href="waterlevel_lobo.jpg" alt="alttext">
-   <area shape="rect" coords="537,563,723,521" href="waterlevel_sebastian_inlet.jpg" alt="alttext">
-   <area shape="rect" coords="473,461,611,508" href="waterlevel_northjetty.jpg" alt="alttext">
-   <area shape="rect" coords="334,28,455,66" href="waterlevel_indialantic.jpg" alt="alttext">
-   <area shape="rect" coords="647,782,848,822" href="waterlevel_wabasso.jpg" alt="alttext">
-</map> 
-
 <img src="google_earth.JPG" width="imgwidth" height="imgheight" alt="alttext" usemap="#mapname">
 <map name="mapname">
-    <area shape="rect" coords="202,586,228,635" href="waterlevel_lobo.jpg" alt="alttext">
-    <area shape="rect" coords="233,536,263,591" href="waterlevel_sebastian_inlet.jpg" alt="alttext">
-    <area shape="rect" coords="191,480,217,529" href="waterlevel_northjetty.jpg" alt="alttext">
-    <area shape="rect" coords="278,2,304,51" href="waterlevel_indialantic.jpg" alt="alttext">
-     <area shape="rect" coords="278,2,304,51" href="waterlevel_wabasso.jpg" alt="alttext"> 
+    <area shape="rect" coords="440,564,519,615" href="waterlevel_lobo.jpg" alt="alttext">
+    <area shape="rect" coords="537,563,723,521" href="waterlevel_sebastian_inlet.jpg" alt="alttext">
+    <area shape="rect" coords="473,461,611,508" href="waterlevel_northjetty.jpg" alt="alttext">
+    <area shape="rect" coords="334,28,455,66" href="waterlevel_indialantic.jpg" alt="alttext">
+     <area shape="rect" coords="647,782,848,822" href="waterlevel_wabasso.jpg" alt="alttext"> 
  </map>
 
 
