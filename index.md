@@ -66,13 +66,13 @@ Open boundary conditions for wave model have been derived from global wave model
 <a href="waterlevel_indialantic.jpg"> <img src="waterlevel_indialantic.jpg" width="300"> </a>
 
 <p> </p>
-<div style="color:green" align="center">3 days forecast of salinity and temperature at LOBO station (left) and Sebastian Inlet (right) </div>      
+<div style="color:green" align="center">3 days forecast of surface salinity and temperature at LOBO station (left) and Sebastian Inlet (right) </div>      
 <a href="saltem_lobo.jpg"> <img src="saltem_lobo.jpg" width="300"> </a>
 <a href="saltemp_inlet.jpg"> <img src="saltemp_inlet.jpg" width="300"> </a>
 
 
 <p></p>
-<div style="color:green" align="center">Water level and Current forecast map.</div>
+<div style="color:green" align="center">Water level and Surface Current forecast map.</div>
 <a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="610"> </a>
 
 <p></p>
