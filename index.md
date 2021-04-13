@@ -73,7 +73,7 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <p></p>
 <div style="color:green" align="center">Water level and Surface Current forecast map.</div>
-<a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="610"> </a>
+<a href="waterlevel_currentmap.gif"> <img src="waterlevel_currentmap.gif" width="610"></a>
 
 <p></p>
 <div style="color:green" align="center">Sig. wave height timeseries forecast at Sebastian Inlet (left) and LOBO station (right) </div>
