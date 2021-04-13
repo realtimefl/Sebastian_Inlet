@@ -19,7 +19,7 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <div style="color:green" align="center">Temperature and salinity profile at East1 bondary node </div>      
 <a href="Sal_tem_2018_east1a.jpg"> <img src="Sal_tem_2018_east1a.jpg" width="350"  align="left"> </a>  
-<a href="boundary node.jpg"> <img src="boundary node.jpg" width="250" height="250" align="justify">  </a>  
+<a href="boundary node.jpg"> <img src="boundary node.jpg" width="250" height="250" align="justify"> </a>  
 
 <h1>Model Validation </h1>      
 <p>Model results for waterlevel timeseries were compared with data from buoy data near Sebastian Inlet. There is a good match between model results and buoy data for water level timeseries with small difference in amplitude but very good match between phases. Correlation comparison is well over 90%. Salinity. temperature, and sig. waveheight from simulation results were also compared with measured data. These comparisons showed good match with observed data. Following figures show some comparison.</p>
