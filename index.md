@@ -47,7 +47,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <strong>Click</strong> on station names for timeseries forecast. 
 <img src="google_earth.JPG" width="620" alt="alttext" usemap="#mapname">
 <map name="mapname">
-    <area shape="rect" coords="300,340,240,300" href="placemark_lobo.jpg" alt="alttext">
+    <area shape="rect" coords="280,340,240,300" href="placemark_lobo.jpg" alt="alttext">
     <area shape="rect" coords="400,320,280,280" href="placemark_inlet.jpg" alt="alttext">
     <area shape="rect" coords="240,270,340,180" href="placemark_jetty.jpg" alt="alttext">
     <area shape="rect" coords="250,50,200,20" href="placemark_indialantic.jpg" alt="alttext">
