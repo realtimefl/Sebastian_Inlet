@@ -6,7 +6,7 @@
 
 <div style="color:green" align="center">Left: Model domain (Red rectangular box). Right: Zoomed model domain in Sebastian Inlet.(Google Earth)  </div>      
 <a href="googleEarth1.JPG">  <img src="googleEarth1.JPG"  width="300" align="justify"> </a>
-<a href="googleEarth2.JPG"> <img src="googleEarth2.JPG" width="300" height="260" align="justify"> </a>
+<a href="googleEarth2.JPG"> <img src="googleEarth2.JPG" width="300" height="260" align="justify">  </a>
 
 <p></p>
 <div style="color:green" align="center">Left: Model grid (subsampled one per three grid lines). Right: Detailed grid for Sebastian Inlet area </div>      
