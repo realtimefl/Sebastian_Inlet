@@ -36,7 +36,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <h1> Real Time Forecast</h1>
 <h3> Parameters Predicted </h3>
 <ul>
-    <li>Water level </li>
+    <li>Water level</li>
     <li> Salinity</li>
     <li> Temperature </li>
     <li> Currents </li>
