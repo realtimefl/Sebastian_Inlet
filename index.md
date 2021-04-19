@@ -85,6 +85,9 @@ Open boundary conditions for wave model have been derived from global wave model
 <a href="sig_waveheight_inlet.jpg"> <img src="sig_waveheight_inlet.jpg" width="300" align="left"> </a>
 <a href="sig_waveheight_lobo.jpg"> <img src="sig_waveheight_lobo.jpg" width="300" align="justify"> </a>
 
+<p> </p>
+<div style="color:green" align="center">Sig. wave height and Surface Current forecast map </div>
+<a href="waveheight_current.gif"> <img src="waveheight_current.gif" width="610" align="left"> </a>
  
 <p> </p>
 <h3> Developed by </h3>
