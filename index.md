@@ -6,9 +6,9 @@
 
 <div style="color:green" align="center">Left: Model domain (Red rectangular box). Right: Zoomed model domain in the Sebastian Inlet. (Google Earth) </div>      
 <a href="googleEarth1.JPG"><img src="googleEarth1.JPG"  width="300" align="justify"> </a>
-<a href="googleEarth2.JPG"><img src="googleEarth2.JPG" width="300" height="260" align="justify"></a>
+<a href="googleEarth2.JPG"><img src="googleEarth2.JPG" width="300" height="260" align="justify"> </a>
 
-<p></p>
+<p> </p>
 <div style="color:green" align="center">Left: Model grid (subsampled one per three grid lines). Right: Detailed grid for Sebastian Inlet area </div>      
 <a href="Sebastian Inlet Full Grid.jpg"><img src="Sebastian Inlet Full Grid.jpg"  width="300" align="justify">  </a>
 <a href="Zoomed Grid Sebastian Inlet.jpg"> <img src="Zoomed Grid Sebastian Inlet.jpg" width="300" align="justify"> </a>
