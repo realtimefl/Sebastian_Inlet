@@ -31,7 +31,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <p> </p>
 <div style="color:green" align="center">Temperature (left) and Sig. wave height (right) timeseries comparison respectively at LOBO and Sebastian Inlet stations </div>      
 <a href="temp_lobo_2018_2.jpg"> <img src="temp_lobo_2018_2.jpg" width="300" height="225" align="left"> </a>  
-<a href="wave_height_north_jetty.tiff"><img src="wave_height_north_jetty.tiff" width="300" align="justify"></a>  
+<embed width="300" src="wave_height_north_jetty.tiff" type="image/tiff">  
 
 <h1> Real Time Forecast</h1>
 <h3> Parameters Predicted </h3>
