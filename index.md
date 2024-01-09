@@ -25,8 +25,8 @@ Open boundary conditions for wave model have been derived from global wave model
 <p>Model results for water level timeseries were compared with data from buoy near Sebastian Inlet. There is a good match between model results and buoy data for water level timeseries with small difference in amplitude but very good match between phases. Correlation comparison is well over 90%. Salinity. temperature, and sig. wave height from simulation results were also compared with measured data. These comparisons showed good match with observed data. Following figures show these comparisons.</p>
 
 <div style="color:green" align="center">Water level timeseries comparison between model and measured data at Sebastian Inlet </div>      
-<a href="waterlevel_northjetty_2018_feb.jpg"> <img src="waterlevel_northjetty_2018_feb.jpg" width="350"  align="left"></a>  
-<a href="corr_wl_norhtjetty3.jpg"> <img src="corr_wl_norhtjetty3.jpg" width="250" height="250" align="justify"></a>  
+<a href="waterlevel_northjetty_2018_feb.jpg"> <img src="waterlevel_northjetty_2018_feb.jpg" width="300"  align="left"></a>  
+<a href="corr_wl_norhtjetty3.jpg"> <img src="corr_wl_norhtjetty3.jpg" width="300" height="260" align="justify"></a>  
 
 <p> </p>
 <div style="color:green" align="center">Temperature (left) and Sig. wave height (right) timeseries comparison respectively at LOBO and Sebastian Inlet stations </div>      
