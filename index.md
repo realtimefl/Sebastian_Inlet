@@ -62,7 +62,7 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <p> </p>
 <div style="color:green" align="center">3 days Water level timeseries forecast at LOBO station (left) and Indialantic Beach (right).</div>      
-<a href="waterlevel_lobo.tiff"> <img src="waterlevel_lobo.tiff" width="300"> </a>
+<a href="waterlevel_lobo.jpg"> <img src="waterlevel_lobo.jpg" width="300"> </a>
 <a href="waterlevel_indialantic.jpg"> <img src="waterlevel_indialantic.jpg" width="300"> </a>
 
 <p> </p>
@@ -92,7 +92,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <p> </p>
 <h3> Developed by </h3>
 
-<p> Ahsan Habib, PhD Candidate </p>
+<p> Ahsan Habib, PhD </p>
 
 <p> <a href="https://www.fit.edu/faculty-profiles/8/gary-zarillo/">Dr. Gary Zarillo, PhD </a> </p>
 
