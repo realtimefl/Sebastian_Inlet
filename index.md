@@ -26,7 +26,7 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <div style="color:green" align="center">Water level timeseries comparison between model and measured data at Sebastian Inlet </div>      
 <a href="waterlevel_northjetty_2018_feb.jpg"> <img src="waterlevel_northjetty_2018_feb.jpg" width="350"  align="left"></a>  
-<a href="corr_wl_norhtjetty3.jpg"> <img src="corr_wl_norhtjetty3.jpg" width="250" align="justify"></a>  
+<a href="corr_wl_norhtjetty3.jpg"> <img src="corr_wl_norhtjetty3.jpg" width="250" height="250" align="justify"></a>  
 
 <p> </p>
 <div style="color:green" align="center">Temperature (left) and Sig. wave height (right) timeseries comparison respectively at LOBO and Sebastian Inlet stations </div>      
