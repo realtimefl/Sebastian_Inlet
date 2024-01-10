@@ -63,17 +63,17 @@ Open boundary conditions for wave model have been derived from global wave model
 <p> </p>
 <div style="color:green" align="center">3 days Water level timeseries forecast at LOBO station (left) and Indialantic Beach (right).</div>      
 <a href="waterlevel_lobo.jpg"> <img src="waterlevel_lobo.jpg" width="305" height="260"> </a>
-<a href="waterlevel_indialantic.jpg"> <img src="waterlevel_indialantic.jpg" width="260" height="300"> </a>
+<a href="waterlevel_indialantic.jpg"> <img src="waterlevel_indialantic.jpg" width="305" height="260"> </a>
 
 <p> </p>
 <div style="color:green" align="center">Timeseries forecast of surface current at Sebastian Inlet (left) and LOBO station (right) </div>
-<a href="uvel_inlet.jpg"> <img src="uvel_inlet.jpg" width="305" height="300" align="left"> </a>
-<a href="uvel_lobo.jpg"> <img src="uvel_lobo.jpg"  width="305" height="300" align="justify">  </a>
+<a href="uvel_inlet.jpg"> <img src="uvel_inlet.jpg" width="305" height="270" align="left"> </a>
+<a href="uvel_lobo.jpg"> <img src="uvel_lobo.jpg"  width="305" height="270" align="justify">  </a>
 
 <p> </p>
 <div style="color:green" align="center">3 days forecast of surface salinity and temperature at LOBO station (left) and Sebastian Inlet (right) </div>      
-<a href="saltem_lobo.jpg"> <img src="saltem_lobo.jpg" width="305" height="300" > </a>
-<a href="saltemp_inlet.jpg"> <img src="saltemp_inlet.jpg" width="305" height="300"> </a>
+<a href="saltem_lobo.jpg"> <img src="saltem_lobo.jpg" width="305" height="280" > </a>
+<a href="saltemp_inlet.jpg"> <img src="saltemp_inlet.jpg" width="305" height="280"> </a>
 
 
 <p> </p>
