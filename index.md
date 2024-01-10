@@ -58,12 +58,12 @@ Open boundary conditions for wave model have been derived from global wave model
 <p>3 days of timeseries forecast data has been provided here for LOBO, Sebastian Inlet, North Jetty, Wabasso Beach, and Indialantic Beach stations. </p>
 
 <div style="color:green" align="center">Water level timeseries forecast at Sebastian Inlet (left) and North Jetty (right) for 3 days  </div>
-<a href="waterlevel_sebastian_inlet.jpg"><img src="waterlevel_sebastian_inlet.jpg" width="305" height="300" align="left"> </a><a href="waterlevel_northjetty.jpg"><img src="waterlevel_northjetty.jpg" width="305" height="300" align="justify"></a>
+<a href="waterlevel_sebastian_inlet.jpg"><img src="waterlevel_sebastian_inlet.jpg" width="305" height="250" align="left"> </a><a href="waterlevel_northjetty.jpg"><img src="waterlevel_northjetty.jpg" width="305" height="250" align="justify"></a>
 
 <p> </p>
 <div style="color:green" align="center">3 days Water level timeseries forecast at LOBO station (left) and Indialantic Beach (right).</div>      
-<a href="waterlevel_lobo.jpg"> <img src="waterlevel_lobo.jpg" width="305" height="300"> </a>
-<a href="waterlevel_indialantic.jpg"> <img src="waterlevel_indialantic.jpg" width="305" height="300"> </a>
+<a href="waterlevel_lobo.jpg"> <img src="waterlevel_lobo.jpg" width="305" height="260"> </a>
+<a href="waterlevel_indialantic.jpg"> <img src="waterlevel_indialantic.jpg" width="260" height="300"> </a>
 
 <p> </p>
 <div style="color:green" align="center">Timeseries forecast of surface current at Sebastian Inlet (left) and LOBO station (right) </div>
