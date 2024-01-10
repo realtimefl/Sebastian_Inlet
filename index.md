@@ -58,7 +58,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <p>3 days of timeseries forecast data has been provided here for LOBO, Sebastian Inlet, North Jetty, Wabasso Beach, and Indialantic Beach stations. </p>
 
 <div style="color:green" align="center">Water level timeseries forecast at Sebastian Inlet (left) and North Jetty (right) for 3 days  </div>
-<a href="waterlevel_sebastian_inlet.jpg"><img src="waterlevel_sebastian_inlet.jpg" width="300" align="left"> </a><a href="waterlevel_northjetty.jpg"><img src="waterlevel_northjetty.jpg" width="300" align="justify"></a>
+<a href="waterlevel_sebastian_inlet.jpg"><img src="waterlevel_sebastian_inlet.jpg" width="300" height="300" align="left"> </a><a href="waterlevel_northjetty.jpg"><img src="waterlevel_northjetty.jpg" width="300" height="300" align="justify"></a>
 
 <p> </p>
 <div style="color:green" align="center">3 days Water level timeseries forecast at LOBO station (left) and Indialantic Beach (right).</div>      
@@ -67,13 +67,13 @@ Open boundary conditions for wave model have been derived from global wave model
 
 <p> </p>
 <div style="color:green" align="center">Timeseries forecast of surface current at Sebastian Inlet (left) and LOBO station (right) </div>
-<a href="uvel_inlet.jpg"> <img src="uvel_inlet.jpg" width="300" align="left"> </a>
-<a href="uvel_lobo.jpg"> <img src="uvel_lobo.jpg"  width="300" align="justify">  </a>
+<a href="uvel_inlet.jpg"> <img src="uvel_inlet.jpg" width="350" align="left"> </a>
+<a href="uvel_lobo.jpg"> <img src="uvel_lobo.jpg"  width="350" align="justify">  </a>
 
 <p> </p>
 <div style="color:green" align="center">3 days forecast of surface salinity and temperature at LOBO station (left) and Sebastian Inlet (right) </div>      
-<a href="saltem_lobo.jpg"> <img src="saltem_lobo.jpg" width="300"> </a>
-<a href="saltemp_inlet.jpg"> <img src="saltemp_inlet.jpg" width="300"> </a>
+<a href="saltem_lobo.jpg"> <img src="saltem_lobo.jpg" width="400"> </a>
+<a href="saltemp_inlet.jpg"> <img src="saltemp_inlet.jpg" width="400"> </a>
 
 
 <p> </p>
