@@ -31,7 +31,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <p> </p>
 <div style="color:green" align="center">Temperature (left) and Sig. wave height (right) timeseries comparison respectively at LOBO and Sebastian Inlet stations </div>      
 <a href="temp_lobo_2018_3.jpg"> <img src="temp_lobo_2018_3.jpg" width="305" align="left"> </a>  
-<a href="wave_hs_north_jetty.jpg"> <img src="wave_hs_north_jetty.jpg" width="305" align="justify" alt=""> </a>  
+<a href="wave_hs_north_jetty.jpg"> <img src="wave_hs_north_jetty.jpg" width="305" align="justify" > </a>  
 
 <h1> Real Time Forecast</h1>
 <h3> Parameters Predicted </h3>
@@ -68,7 +68,7 @@ Open boundary conditions for wave model have been derived from global wave model
 <p> </p>
 <div style="color:green" align="center">Timeseries forecast of surface current at Sebastian Inlet (left) and LOBO station (right) </div>
 <a href="uvel_inlet.jpg"> <img src="uvel_inlet.jpg" width="305"  align="left"> </a>
-<a href="uvel_lobo.jpg"> <img src="uvel_lobo.jpg"  width="305" 270" align="justify">  </a>
+<a href="uvel_lobo.jpg"> <img src="uvel_lobo.jpg"  width="305" align="justify">  </a>
 
 <p> </p>
 <div style="color:green" align="center">3 days forecast of surface salinity and temperature at LOBO station (left) and Sebastian Inlet (right) </div>      
