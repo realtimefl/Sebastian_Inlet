@@ -10,7 +10,7 @@
 
 <p> </p>
 <div style="color:green" align="center">Left: Model grid (subsampled one per three grid lines). Right: Detailed grid for Sebastian Inlet area </div>      
-<a href="grid_full_seb.jpg.jpg"> <img src="grid_full_seb.jpg.jpg"  width="300" align="justify">  </a>
+<a href="grid_full_seb.jpg.jpg"> <img src="grid_full_seb.jpg"  width="300" align="justify">  </a>
 <a href="grid_zoomed_seb.jpg"> <img src="grid_zoomed_seb.jpg" width="300" align="justify"> </a>
 
 <h1> Offshore Boundary Conditions</h1>
